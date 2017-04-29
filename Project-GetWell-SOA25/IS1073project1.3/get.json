@@ -1,0 +1,53 @@
+
+{
+"drug": {
+            		"medications": 2,
+            		"medication1": {
+            			"genericname": "fluticasone propionate",
+            			"brandname": "advair diskus",
+            			"dose": 20,
+            			"unitsdispensed": 21,
+            			"date": {
+            				"prescribeddate": "02/12/2017",
+            				"filleddate": "02/14/2017",
+            				"pickupdate": "02/18/2017"
+            			},
+            			"schedule": {
+            				"numberofunits": 3,
+            				"timesperday": 3,
+            				"taken": "beforemeal"
+            			},
+            			"refills": 1,
+                        "physician" : "Richard",
+                        "pharmacy": "CVS",
+            		"location": "centre avenue"
+                        },
+            		"medication2": {
+            			"genericname": "zolpdiem tartrate",
+            			"brandname": "ambien",
+            			"dose": 20,
+            			"unitsdispensed": 20,
+            			"date": {
+            				"prescribeddate": "02/12/2017",
+            				"filleddate": "02/14/2017",
+            				"pickupdate": "02/18/2017"
+            			},
+            			"schedule": {
+            				"numberofunits": 2,
+            				"timesperday": 2,
+            				"taken": "aftermeal"
+            			},
+            			"refills": 1,
+                        "physician" : "Thompson",
+                        "pharmacy": "Red+",
+            		"location": "forbes avenue"
+            		}
+            		
+            	},
+
+            	"id": 7777777,
+            	"firstname": "Mark",
+            	"lastname": "Wright",
+            	"gender": "male",
+            	"dob": "02/18/1990"
+            }

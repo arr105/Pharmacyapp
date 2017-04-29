@@ -1,0 +1,15 @@
+{
+"questions": {
+    			"q1": "What was the reason for missing medication first time?",
+    			"q2": "What was the reason for missing medication second time?",
+    			"q3": "What was the reason for missing medication third time?",
+                "q4": "Is any substance allergic to you?",
+                "q5": "Are you planning to visit physician again?",
+    			"q6": "if med is opioid or pain med, did you feel any dizziness?",
+    			"q7": "if med is opioid or pain med, do you have any food allergies?",
+    			"q8": "if med is opioid or pain med, did you undergo any surgeries before?",
+    			"q9": "if med is opioid or pain med, did you have any headache or migraines?",
+    			"q10": "if med is opioid or pain med, did you have any stomach-aches?",
+    			"q11": "if med is opioid or pain med, was this your first medication?"
+    		}
+}
